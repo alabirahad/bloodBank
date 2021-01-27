@@ -1,0 +1,1 @@
+<?php echo Form::select('cm_id', $cmList, Request::get('cm_id'), ['class' => 'form-control js-source-states', 'id' => 'cmId']); ?><?php /**PATH E:\Xampp\htdocs\afwc\resources\views/report/performanceAnalysis/getCm.blade.php ENDPATH**/ ?>

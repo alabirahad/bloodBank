@@ -1,0 +1,1 @@
+<?php echo Form::select('event_id', $eventList, Request::get('event_id'), ['class' => 'form-control js-source-states', 'id' => 'eventId']); ?><?php /**PATH E:\Xampp\htdocs\afwc\resources\views/report/markingGroupSummary/getEvent.blade.php ENDPATH**/ ?>

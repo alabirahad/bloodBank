@@ -1,0 +1,1 @@
+<?php echo Form::select('district_id', $districtList,  null, ['class' => 'form-control js-states' ]); ?><?php /**PATH E:\Xampp\htdocs\bloodBank\resources\views/user/districts.blade.php ENDPATH**/ ?>

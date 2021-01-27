@@ -1,0 +1,1 @@
+<?php echo Form::select('syn_id', $synList, Request::get('syn_id'), ['class' => 'form-control js-source-states', 'id' => 'synId']); ?><?php /**PATH E:\Xampp\htdocs\afwc\resources\views/report/mutualAssessmentSummary/getSyn.blade.php ENDPATH**/ ?>

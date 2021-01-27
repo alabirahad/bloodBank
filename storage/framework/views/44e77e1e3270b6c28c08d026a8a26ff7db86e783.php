@@ -1,0 +1,1 @@
+<?php echo Form::select('term_id', $termList, null,  ['class' => 'form-control js-source-states', 'id' => 'termId']); ?><?php /**PATH E:\Xampp\htdocs\afwc\resources\views/eventToApptMatrix/showTerm.blade.php ENDPATH**/ ?>

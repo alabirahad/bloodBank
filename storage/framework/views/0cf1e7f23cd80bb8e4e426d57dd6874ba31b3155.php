@@ -1,0 +1,1 @@
+<?php echo Form::select('maEvent_id', $maEventList, Request::get('maEvent_id'), ['class' => 'form-control js-source-states', 'id' => 'maEventId']); ?><?php /**PATH E:\Xampp\htdocs\afwc\resources\views/report/mutualAssessmentSummary/getMaEvent.blade.php ENDPATH**/ ?>

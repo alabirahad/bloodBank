@@ -1,0 +1,1 @@
+<?php echo Form::select('event_id', $eventList, null,  ['class' => 'form-control js-source-states', 'id' => 'eventId']); ?><?php /**PATH E:\Xampp\htdocs\afwc\resources\views/eventToApptMatrix/showEvent.blade.php ENDPATH**/ ?>
